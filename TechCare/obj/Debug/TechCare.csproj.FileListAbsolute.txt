@@ -1,0 +1,17 @@
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\bin\Debug\TechCare.exe.config
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\bin\Debug\TechCare.exe
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\bin\Debug\TechCare.pdb
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.csproj.AssemblyReference.cache
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.Form1.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.Properties.Resources.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.csproj.GenerateResource.cache
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.csproj.CoreCompileInputs.cache
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.exe
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.pdb
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.UserForm.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.DialogCommentForm.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.DialogEquipmentForm.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.EmployeeForm.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.AdminForm.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.SelectEmployeeForm.resources
+C:\Users\Робот\Desktop\Правильное Питание\TechCare\TechCare\obj\Debug\TechCare.AddUserForm.resources
